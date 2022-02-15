@@ -1,3 +1,4 @@
+#getting ready
 # Bare-metal C programming on ARM
 
 This repository contains a tutorial ebook concerning programming a bare-metal ARM system. More specifically it deals with a ARMv7A version of the ARM Versatile Express platform, emulated on a regular PC through QEMU. You can explore the repository, or read things in order.
